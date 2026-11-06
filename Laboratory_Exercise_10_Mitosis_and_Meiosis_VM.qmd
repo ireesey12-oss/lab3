@@ -141,7 +141,7 @@ During this activity you will work in *pairs.*
 
 $$\text{Mitotic Index} = \frac{\text{Cells in Mitosis}}{\text{Total Cells Counted}} \times 100$$
 
-=20 for individ
+=20 for individual
 
 Cells in mitosis = Prophase + Metaphase + Anaphase + Telophase
 
