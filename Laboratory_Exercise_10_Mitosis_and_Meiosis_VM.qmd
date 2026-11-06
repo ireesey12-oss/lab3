@@ -130,18 +130,18 @@ During this activity you will work in *pairs.*
 
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
-| Interphase | 345                   |                 |             |
-| Prophase   |                       |                 |             |
-| Metaphase  |                       |                 |             |
-| Anaphase   |                       |                 |             |
-| Telophase  |                       |                 |             |
-| Total      |                       |                 | 100%        |
+| Interphase | 92                    | 500             | 59.17%      |
+| Prophase   | 11                    | 265             | 31.36%      |
+| Metaphase  | 5                     | 40              | 4.73%       |
+| Anaphase   | 4                     | 23              | 2.72%       |
+| Telophase  | 3                     | 17              | 2.01%       |
+| Total      | 115                   | 845             | 100%        |
 
 ### **Calculating Mitotic Index**
 
 $$\text{Mitotic Index} = \frac{\text{Cells in Mitosis}}{\text{Total Cells Counted}} \times 100$$
 
-Where:
+=20 for individ
 
 Cells in mitosis = Prophase + Metaphase + Anaphase + Telophase
 
