@@ -125,9 +125,9 @@ Suppose you cross parental genotypes **PP × p\*p\***. Use the Punnett squares b
   ---------------------------------------------------------------------------
             **P**          **P**            
   --------- -------------- ---------------- ---------------------------------
-   **p\***                                  Phenotype ratio:
+   **p\***  Pp               Pp                Phenotype ratio:
 
-   **p\***                                  Genotype Ratio:
+   **p\***  pP              pP                  Genotype Ratio:
   ---------------------------------------------------------------------------
 
 Next, cross two of the prodigies from the F1 generation above (Pp\* x Pp\*)
@@ -137,9 +137,9 @@ Next, cross two of the prodigies from the F1 generation above (Pp\* x Pp\*)
   --------------------------------------------------------------------------
             **P**          **p\***           
   --------- -------------- ----------------- -------------------------------
-    **P**                                    Phenotype ratio:
+    **P**    PP             Pp                   Phenotype ratio:
 
-   **p\***                                   Genotype Ratio:
+   **p\***  Pp              pp                   Genotype Ratio:
   --------------------------------------------------------------------------
 
 **Note: P** refers to the dominant trait while **p\*** refers to the recessive trait.
@@ -284,11 +284,11 @@ Based on your information about the F2 progeny, complete the table below.
   ---------------------------------------------------------------------------------------
    **Genotype**      **ratio**       **Phenotype**   **ratio**   **Percentage expected**
   -------------- ------------------ --------------- ----------- -------------------------
-      **PP**                          **Purple**                
+      **PP**       1:3                  **Purple**                
 
-     **Pp\***                         **Yellow**                
+     **Pp\***      2:1                   **Yellow**                
 
-    **p\*p\***                                                  
+    **p\*p\***     1:3                                           
   ---------------------------------------------------------------------------------------
 
 Working in groups of two, have one student read out the seed phenotypes while the other records the data in Table xxx. The kernels in this activity represent the **F2 generation**, as shown in the Punnett square completed earlier. Begin at one end of a row and count the number of seeds for each color, making sure not to count any seed more than once. Do not mark or remove the seeds from the cob. Use the provided rubber bands to divide the cob into sections to make counting easier. Record the number of purple seeds, yellow seeds, and the total number of seeds below.
